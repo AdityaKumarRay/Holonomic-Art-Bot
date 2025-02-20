@@ -114,7 +114,7 @@ holonomic-art-bot/
 
 ## **Contributors**
 - Aditya Kumar Ray ([GitHub Profile](https://github.com/AdityaKumarRay))
-- Sandeep Kumar Das
+- Sandeep Kumar Das ([GitHub Profile](https://github.com/Sandeep-622))
 - Saumit Pradhan
 
 ---

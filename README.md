@@ -124,11 +124,6 @@ This project was inspired by the ancient Nasca Lines and the theme of Hologlyph 
 
 ---
 
-## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## **Media**
 - Images and videos of the project can be found in the `media/` folder.
 
